@@ -28,12 +28,11 @@
 
 7.  打开启动器，登录账号
 
-8. 点击齿轮图标，进入 SETTINGS （设置），点击对应版本的 Verify （验证） 按钮，进行验证。 
-8. 点击齿轮图标，进入 SETTINGS （设置），点击对应版本的 Verify （验证） 按钮，进行验证。 
+8. 点击齿轮图标，进入 SETTINGS （设置），点击对应版本的 Verify （验证） 按钮，进行验证。
 
 ![image](https://git.scbox.xkeyc.cn/SCToolBox/Files/attachments/74252da2-4d3f-40ad-a587-9ac76908996b) 
 ![image](https://git.scbox.xkeyc.cn/SCToolBox/Files/attachments/d5ad4c43-15ad-4362-9f68-8a88f15c03d8)
 
-9. 同意所有的弹窗，包括 EAC 安装和用户协议。启动器可能会下载 100+ Mb 的文件用于验证，如果汉化盒子版本滞后，可能会下载更多文件，随后等待首页显示为 Launch Game （启动游戏），游戏就安装成功了。 
+10. 同意所有的弹窗，包括 EAC 安装和用户协议。启动器可能会下载 100+ Mb 的文件用于验证，如果汉化盒子版本滞后，可能会下载更多文件，随后等待首页显示为 Launch Game （启动游戏），游戏就安装成功了。 
 
 ![image](https://git.scbox.xkeyc.cn/SCToolBox/Files/attachments/d0f764c6-4b35-44fd-a847-00482f86ab97)
